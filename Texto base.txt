@@ -1,0 +1,28 @@
+Sobre a Barbearia Alura
+
+Localizada no coração da cidade a Barbearia Alura traz para o mercado o que há de melhor para o seu cabelo e barba. Fundada em 2019, a Barbearia Alura já é destaque na cidade e conquista novos clientes a cada dia.
+
+Nossa missão é: "Proporcionar auto-estima e qualidade de vida aos clientes".
+
+Oferecemos profissionais experientes e antenados às mudanças no mundo da moda. O atendimento possui padrão de excelência e agilidade, garantindo qualidade e satisfação dos nossos clientes.
+
+
+abcdef...
+binario 01
+numérico 0123456789
+hexadecimal 0123456789ABCDEF
+RGB = RED GREEN BLUE
+# _ _ _ _ _ _ 
+0 = ausência
+F = Máximo
+#000000 'black'
+#FFFFFF 'while'
+
+#FF0000
+
+RGB 0,1,2,3,4...até 255
+
+0 = ausencia
+255 = máximo.
+rgb(255,255,255) vermelho
+rgb(0, 0, 255)  blue
